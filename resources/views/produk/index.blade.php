@@ -127,7 +127,7 @@
                             </th>
 
                             <th class="px-6 py-4 text-left text-xs font-bold uppercase tracking-wider text-slate-500">
-                                Nama Produk
+                                Nama item
                             </th>
 
                             <th class="px-6 py-4 text-left text-xs font-bold uppercase tracking-wider text-slate-500">
